@@ -1,6 +1,6 @@
-![GitHub All Releases](https://img.shields.io/github/downloads/mohenjo/Bypasser/total)
-
 # Bypasser
+
+![GitHub All Releases](https://img.shields.io/github/downloads/mohenjo/Bypasser/total)
 
 이 응용 프로그램은 SNI(Server Name Indication)를 기반으로 한 HTTPS 필터링의 우회를 시도합니다.
 
